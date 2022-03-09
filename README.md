@@ -4,3 +4,7 @@ The study presented in this paper was designed to investigate human preferences 
 
 Example walk-through of the experiment:
 https://www.youtube.com/watch?v=n84_9KlS75o
+
+
+Side note: Unfortunately, in this version, using VR headset and controller only works correctly when Input Manager is switched off and references to PlayerMovementScript and MouseLook are removed. Therefore, using the keyboard is recommended for playing the experiment in this version.
+The other version with only VR gadget could not be uploaded to github due to commit data limit.![image](https://user-images.githubusercontent.com/62394917/157554002-1edd699c-f210-40ed-ad07-9998c5d4e990.png)
